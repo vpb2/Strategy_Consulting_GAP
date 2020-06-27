@@ -1,6 +1,6 @@
 # Strategy_Consulting_GAP
 
-Case study:
+Case study: “Predicting Consumer Tastes with Big Data at Gap” from Harvard Business Review
 
 • Performing Analysis to make data driven decisions in order to assist GAP to increase their revenue by expanding the market to e-commerce websites like Amazon.
 
